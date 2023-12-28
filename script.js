@@ -55,10 +55,6 @@ function endGame() {
     } else {
         resultsDiv.textContent = "The game is a tie!";
     }
-
-    // Optional: You can reset the scores here if you want to play another round
-    // playerScore = 0;
-    // computerScore = 0;
 }
 
 // Function to play the game when a button is clicked
